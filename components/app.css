@@ -39,9 +39,7 @@
 }
 .selectİtemElement{
     background-color: hsl(183, 100%, 15%);
-     /* width: 100%; */
     line-height: 4rem; 
-    /* padding: 1rem 2rem; */
     text-align: center;
     color: #fff;
     
@@ -53,9 +51,7 @@
 }
 #customNumber{
     background-color:hsl(189, 41%, 97%);
-    /* width: 100%; */
    line-height: 2rem; 
-   /* padding: 1rem 2rem; */
    text-align: center;
    color: hsl(186, 14%, 43%);
    font-weight: bold;
@@ -92,7 +88,6 @@
 }
 
 #selectItemBtn{
-    
     color: #fff;
 }
 a{
@@ -106,10 +101,6 @@ font-size: 18px;
 }
 
  @media (max-width: 780px) { 
-    /* .selectGroup{
-         display: flex;
-         flex-wrap: wrap;
-    } */
     *{
         font-size: 10px;
     }
